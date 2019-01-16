@@ -10,11 +10,11 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"ipe/app"
-	channel2 "ipe/channel"
-	"ipe/connection"
-	"ipe/mocks"
-	"ipe/storage"
+	"github.com/oldfritter/ipe/app"
+	channel2 "github.com/oldfritter/ipe/channel"
+	"github.com/oldfritter/ipe/connection"
+	"github.com/oldfritter/ipe/mocks"
+	"github.com/oldfritter/ipe/storage"
 )
 
 var (

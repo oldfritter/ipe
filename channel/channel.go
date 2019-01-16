@@ -12,10 +12,10 @@ import (
 
 	log "github.com/golang/glog"
 
-	"ipe/connection"
-	"ipe/events"
-	"ipe/subscription"
-	"ipe/utils"
+	"github.com/oldfritter/ipe/connection"
+	"github.com/oldfritter/ipe/events"
+	"github.com/oldfritter/ipe/subscription"
+	"github.com/oldfritter/ipe/utils"
 )
 
 // Option constructor function for Channel

@@ -5,7 +5,7 @@
 package connection
 
 import (
-	"ipe/mocks"
+	"github.com/oldfritter/ipe/mocks"
 	"testing"
 )
 

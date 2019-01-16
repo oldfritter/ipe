@@ -14,9 +14,9 @@ import (
 
 	log "github.com/golang/glog"
 
-	"ipe/channel"
-	"ipe/subscription"
-	"ipe/utils"
+	"github.com/oldfritter/ipe/channel"
+	"github.com/oldfritter/ipe/subscription"
+	"github.com/oldfritter/ipe/utils"
 )
 
 const maxTimeout = 3 * time.Second

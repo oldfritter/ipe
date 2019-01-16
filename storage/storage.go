@@ -6,7 +6,7 @@ package storage
 
 import (
 	"errors"
-	"ipe/app"
+	"github.com/oldfritter/ipe/app"
 	"sync"
 )
 

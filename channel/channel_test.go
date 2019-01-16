@@ -5,9 +5,9 @@
 package channel
 
 import (
-	"ipe/connection"
-	"ipe/mocks"
-	"ipe/subscription"
+	"github.com/oldfritter/ipe/connection"
+	"github.com/oldfritter/ipe/mocks"
+	"github.com/oldfritter/ipe/subscription"
 	"testing"
 )
 

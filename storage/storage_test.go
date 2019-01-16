@@ -5,7 +5,7 @@
 package storage
 
 import (
-	"ipe/app"
+	"github.com/oldfritter/ipe/app"
 	"testing"
 )
 

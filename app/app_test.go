@@ -8,9 +8,9 @@ import (
 	"strconv"
 	"testing"
 
-	channel2 "ipe/channel"
-	"ipe/connection"
-	"ipe/mocks"
+	channel2 "github.com/oldfritter/ipe/channel"
+	"github.com/oldfritter/ipe/connection"
+	"github.com/oldfritter/ipe/mocks"
 )
 
 var id = 0

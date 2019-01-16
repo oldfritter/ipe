@@ -4,7 +4,7 @@
 
 package subscription
 
-import "ipe/connection"
+import "github.com/oldfritter/ipe/connection"
 
 // Subscription A Channel Subscription
 type Subscription struct {

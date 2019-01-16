@@ -16,11 +16,11 @@ import (
 	"github.com/gorilla/mux"
 	"gopkg.in/yaml.v2"
 
-	"ipe/api"
-	"ipe/app"
-	"ipe/config"
-	"ipe/storage"
-	"ipe/websockets"
+	"github.com/oldfritter/ipe/api"
+	"github.com/oldfritter/ipe/app"
+	"github.com/oldfritter/ipe/config"
+	"github.com/oldfritter/ipe/storage"
+	"github.com/oldfritter/ipe/websockets"
 )
 
 // Start Parse the configuration file and starts the ipe server

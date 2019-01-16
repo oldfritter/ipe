@@ -15,9 +15,9 @@ import (
 	log "github.com/golang/glog"
 	"github.com/gorilla/mux"
 
-	"ipe/events"
-	"ipe/storage"
-	"ipe/utils"
+	"github.com/oldfritter/ipe/events"
+	"github.com/oldfritter/ipe/storage"
+	"github.com/oldfritter/ipe/utils"
 )
 
 // // Maximum event size permitted 10 kB

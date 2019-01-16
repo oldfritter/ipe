@@ -16,11 +16,11 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/gorilla/websocket"
 
-	"ipe/app"
-	"ipe/connection"
-	"ipe/events"
-	"ipe/storage"
-	"ipe/utils"
+	"github.com/oldfritter/ipe/app"
+	"github.com/oldfritter/ipe/connection"
+	"github.com/oldfritter/ipe/events"
+	"github.com/oldfritter/ipe/storage"
+	"github.com/oldfritter/ipe/utils"
 )
 
 // Only this version is supported

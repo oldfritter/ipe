@@ -9,7 +9,7 @@ import (
 
 	log "github.com/golang/glog"
 
-	"ipe/subscription"
+	"github.com/oldfritter/ipe/subscription"
 )
 
 // SubscribeData data for Subscribe event
